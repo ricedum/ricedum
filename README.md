@@ -1,10 +1,8 @@
 ### 쌀덤
 
-<p align="center">
-    [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@ricedum) (https://www.youtube.com/@ricedum) 
-</p>
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@ricedum) (https://www.youtube.com/@ricedum) 
 
-<p align="center" display="inline-block">
+<p display="inline-block">
     💡Language <br>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
