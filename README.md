@@ -1,6 +1,6 @@
 ### 쌀덤
 
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@ricedum)
+![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@ricedum)
   (https://www.youtube.com/@ricedum) 
 
 <p display="inline-block">
